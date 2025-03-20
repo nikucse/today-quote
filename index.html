@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Quote Genetator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body
+    class="bg-cover bg-center min-h-screen flex items-center justify-center"
+    id="body"
+  >
+    <div
+      class="bg-white/90 backdrop-blur-sm rounded-lg shadow-2xl p-8 max-w-2xl mx-4 text-center"
+    >
+      <div id="quoteContainer">
+        <p id="quote" class="text-2xl font-serif italic mb-4">
+          Loading quote...
+        </p>
+        <p id="author" class="text-lg font-semibold">— Author</p>
+      </div>
+      <div class="mt-6 flex justify-center gap-4">
+        <button
+          id="newQuote"
+          class="bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition-colors"
+        >
+          New Quote
+        </button>
+        <button
+          id="copyQuote"
+          class="bg-gray-500 text-white px-6 py-2 rounded-lg hover:bg-gray-600 transition-colors"
+        >
+          Copy Quote
+        </button>
+        <button
+          id="shareTwitter"
+          class="bg-blue-400 text-white px-6 py-2 rounded-lg hover:bg-blue-500 transition-colors"
+        >
+          Share on Twitter
+        </button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
