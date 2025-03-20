@@ -7,10 +7,10 @@ Random Quote Generator three buttons are there
 
 # Images
 
-<img width="508" alt="Screenshot 2025-03-19 at 12 07 47 AM" src="https://github.com/user-attachments/assets/904990e2-9f02-4b1a-8230-5c91e8cb0969" />
-<img width="508" alt="Screenshot 2025-03-19 at 12 07 42 AM" src="https://github.com/user-attachments/assets/b7ddabda-e098-418e-855a-bd529c6f07a2" />
-<img width="508" alt="Screenshot 2025-03-19 at 12 07 35 AM" src="https://github.com/user-attachments/assets/13584d4b-6322-495f-8425-19b06bf9310f" />
-<img width="508" alt="Screenshot 2025-03-19 at 12 07 26 AM" src="https://github.com/user-attachments/assets/72dfa96a-86f4-433e-814a-321a7601435a" />
+![Screenshot 2025-03-20 at 8 47 06 AM](https://github.com/user-attachments/assets/73660f8a-9bcf-43b4-a341-a51218eb9484)
+![Screenshot 2025-03-20 at 8 46 58 AM](https://github.com/user-attachments/assets/d8eeda58-450a-4ab9-ac07-6bd33ffade1e)
+![Screenshot 2025-03-20 at 8 46 50 AM](https://github.com/user-attachments/assets/5be7c5b4-c1a1-472e-80a8-16f24411d2ff)
+
 
 # Deployment Links
 
